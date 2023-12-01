@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>900</order>
+        <published_ref/>
+        <question display_value="Which ServiceNow skills have you acquired? ">25672cee933e31105f0976de3bba10b0</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-01 22:37:43</sys_created_on>
+        <sys_id>c70aeca2937e31105f0976de3bba102c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Engine Studio</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>question_choice_c70aeca2937e31105f0976de3bba102c</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-01 22:37:43</sys_updated_on>
+        <text>App Engine Studio</text>
+        <value>app_engine_studio</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=c70aeca2937e31105f0976de3bba102c"/>
+</record_update>
