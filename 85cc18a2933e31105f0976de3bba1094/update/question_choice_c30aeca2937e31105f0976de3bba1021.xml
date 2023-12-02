@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
+        <misc>0</misc>
         <order>100</order>
         <published_ref/>
         <question display_value="Which ServiceNow skills have you acquired? ">25672cee933e31105f0976de3bba10b0</question>
+        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Abraham</sys_created_by>
         <sys_created_on>2023-12-01 22:37:43</sys_created_on>

@@ -9,7 +9,7 @@
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value>java_script</default_value>
+        <default_value/>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -27,27 +27,27 @@
         <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
-        <instructions><![CDATA[<p>Please select all ServiceNow skills you&#39;ve acquired from the list below. If you have skills in areas not listed, you will have the opportunity to add them in a subsequent section</p>]]></instructions>
+        <instructions/>
         <layout>normal</layout>
-        <list_table>x_1138460_nextgen_servicenow_skills</list_table>
-        <lookup_label>portal_development</lookup_label>
+        <list_table/>
+        <lookup_label/>
         <lookup_price/>
-        <lookup_table>x_1138460_nextgen_servicenow_skills</lookup_table>
+        <lookup_table/>
         <lookup_unique>false</lookup_unique>
-        <lookup_value>portal_development</lookup_value>
+        <lookup_value/>
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>which_servicenow_skills_have_you_acquired</name>
-        <order>300</order>
+        <name>what_is_your_contact_info</name>
+        <order>200</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Which ServiceNow skills have you acquired? </question_text>
+        <question_text>What is your contact info? </question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1138460_nextgen_nextgen_graduate_profiles</record_producer_table>
         <reference/>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>undefined</reference_qual>
+        <reference_qual_condition>undefined</reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -69,25 +69,25 @@
 */]]></save_script>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>true</show_help>
+        <show_help>false</show_help>
         <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>Abraham</sys_created_by>
-        <sys_created_on>2023-12-01 22:37:43</sys_created_on>
-        <sys_id>25672cee933e31105f0976de3bba10b0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Which ServiceNow skills have you acquired? </sys_name>
+        <sys_created_on>2023-12-01 23:37:29</sys_created_on>
+        <sys_id>c397f42693be31105f0976de3bba10ee</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>What is your contact info? </sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
-        <sys_update_name>item_option_new_25672cee933e31105f0976de3bba10b0</sys_update_name>
+        <sys_update_name>item_option_new_c397f42693be31105f0976de3bba10ee</sys_update_name>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-02 18:23:01</sys_updated_on>
+        <sys_updated_on>2023-12-02 18:23:06</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=25672cee933e31105f0976de3bba10b0"/>
-    <fx_price action="delete_multiple" query="id=25672cee933e31105f0976de3bba10b0"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=c397f42693be31105f0976de3bba10ee"/>
+    <fx_price action="delete_multiple" query="id=c397f42693be31105f0976de3bba10ee"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>25672cee933e31105f0976de3bba10b0</id>
+        <id>c397f42693be31105f0976de3bba10ee</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>Abraham</sys_created_by>
-        <sys_created_on>2023-12-01 22:37:43</sys_created_on>
-        <sys_id>8f0aeca2937e31105f0976de3bba101d</sys_id>
+        <sys_created_on>2023-12-01 23:37:30</sys_created_on>
+        <sys_id>f6b7b82693be31105f0976de3bba10c9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-01 22:37:43</sys_updated_on>
+        <sys_updated_on>2023-12-01 23:37:30</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>25672cee933e31105f0976de3bba10b0</id>
+        <id>c397f42693be31105f0976de3bba10ee</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>Abraham</sys_created_by>
-        <sys_created_on>2023-12-01 22:37:43</sys_created_on>
-        <sys_id>c70aeca2937e31105f0976de3bba101c</sys_id>
+        <sys_created_on>2023-12-01 23:37:30</sys_created_on>
+        <sys_id>beb7b82693be31105f0976de3bba10c7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-01 22:37:43</sys_updated_on>
+        <sys_updated_on>2023-12-01 23:37:30</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

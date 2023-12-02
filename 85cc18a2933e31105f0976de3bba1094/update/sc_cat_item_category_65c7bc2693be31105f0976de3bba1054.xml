@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="NextGen Graduate Profile Submission">c482e0aa933e31105f0976de3bba1042</sc_cat_item>
+        <sc_category display_value="Cables and Adapters">2945493ddbc590104327198d139619e9</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-01 23:37:42</sys_created_on>
+        <sys_id>65c7bc2693be31105f0976de3bba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cables and Adapters.NextGen Graduate Profile Submission</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sc_cat_item_category_65c7bc2693be31105f0976de3bba1054</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-01 23:37:42</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
