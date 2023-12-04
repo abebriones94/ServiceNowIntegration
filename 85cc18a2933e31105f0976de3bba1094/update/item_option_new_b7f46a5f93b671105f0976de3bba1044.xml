@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>skills</field>
+        <field>looking_for_opportunities</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -41,13 +41,13 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>skills</name>
-        <order>600</order>
+        <name>looking_for_opportunities</name>
+        <order>300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>List your key skills and areas of expertise.</question_text>
+        <question_text>Are you actively looking for new opportunities? </question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>Abraham</sys_created_by>
-        <sys_created_on>2023-12-03 16:55:11</sys_created_on>
-        <sys_id>dabeed43937231105f0976de3bba1014</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>List your key skills and areas of expertise.</sys_name>
+        <sys_created_on>2023-12-04 15:31:15</sys_created_on>
+        <sys_id>b7f46a5f93b671105f0976de3bba1044</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Are you actively looking for new opportunities? </sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
-        <sys_update_name>item_option_new_dabeed43937231105f0976de3bba1014</sys_update_name>
+        <sys_update_name>item_option_new_b7f46a5f93b671105f0976de3bba1044</sys_update_name>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-04 15:32:55</sys_updated_on>
+        <sys_updated_on>2023-12-04 15:32:56</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>1</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=dabeed43937231105f0976de3bba1014"/>
-    <fx_price action="delete_multiple" query="id=dabeed43937231105f0976de3bba1014"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7f46a5f93b671105f0976de3bba1044"/>
+    <fx_price action="delete_multiple" query="id=b7f46a5f93b671105f0976de3bba1044"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>dabeed43937231105f0976de3bba1014</id>
+        <id>b7f46a5f93b671105f0976de3bba1044</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>Abraham</sys_created_by>
-        <sys_created_on>2023-12-03 16:55:11</sys_created_on>
-        <sys_id>cdde6183937231105f0976de3bba104a</sys_id>
+        <sys_created_on>2023-12-04 15:31:16</sys_created_on>
+        <sys_id>51356e5f93b671105f0976de3bba10d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-03 16:55:11</sys_updated_on>
+        <sys_updated_on>2023-12-04 15:31:16</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>dabeed43937231105f0976de3bba1014</id>
+        <id>b7f46a5f93b671105f0976de3bba1044</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>Abraham</sys_created_by>
-        <sys_created_on>2023-12-03 16:55:11</sys_created_on>
-        <sys_id>81de6183937231105f0976de3bba104a</sys_id>
+        <sys_created_on>2023-12-04 15:31:16</sys_created_on>
+        <sys_id>9d356e5f93b671105f0976de3bba10d0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-03 16:55:11</sys_updated_on>
+        <sys_updated_on>2023-12-04 15:31:16</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
