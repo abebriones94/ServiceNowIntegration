@@ -37,7 +37,7 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
@@ -77,14 +77,14 @@
         <sys_created_by>Abraham</sys_created_by>
         <sys_created_on>2023-12-03 16:56:02</sys_created_on>
         <sys_id>8ade6183937231105f0976de3bba10d9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Please provide a URL to your online portfolio or LinkedIn profile</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
         <sys_update_name>item_option_new_8ade6183937231105f0976de3bba10d9</sys_update_name>
         <sys_updated_by>Abraham</sys_updated_by>
-        <sys_updated_on>2023-12-03 16:57:27</sys_updated_on>
+        <sys_updated_on>2023-12-04 14:24:02</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
