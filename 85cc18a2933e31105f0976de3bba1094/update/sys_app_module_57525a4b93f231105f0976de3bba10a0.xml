@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Employer Candidate Search Table">5b525a4b93f231105f0976de3bba109c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Employer Candidate Search Tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1138460_nextgen_employer_candidate_search_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1138460_nextgen.employer_candidate_search_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-03 19:30:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57525a4b93f231105f0976de3bba10a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employer Candidate Search Tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sys_app_module_57525a4b93f231105f0976de3bba10a0</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-03 19:30:26</sys_updated_on>
+        <timeline_page/>
+        <title>Employer Candidate Search Tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c826a0ae933e31105f0976de3bba10e4" label="NextGen Graduate Profiles" max_length="40" name="x_1138460_nextgen_nextgen_graduate_profiles" type="collection">
+        <element label="Certifications" max_length="40" name="certifications" type="string"/>
+        <element label="Contact Email" max_length="40" name="contact_email" type="string"/>
+        <element label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element label="Resume" max_length="40" name="resume" type="file_attachment"/>
+        <element label="ServiceNow Skills" max_length="40" name="servicenow_skills" type="string"/>
+    </element>
+</database>

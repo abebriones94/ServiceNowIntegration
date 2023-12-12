@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Custom portal - Related items</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-02 16:41:45</sys_created_on>
+        <sys_id>252268b6b1be7110d0cc40a2b5ee9a94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal - Related items</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_252268b6b1be7110d0cc40a2b5ee9a94</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:41:45</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1138460_nextgen.nextgen_graduate_profile_submission_user" name="x_1138460_nextgen.nextgen_graduate_profile_submission_user">232ca58f933231105f0976de3bba1033</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-03 16:43:37</sys_created_on>
+        <sys_id>232ca58f933231105f0976de3bba1035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>232ca58f933231105f0976de3bba1033</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sys_embedded_help_role_232ca58f933231105f0976de3bba1035</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-03 16:43:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

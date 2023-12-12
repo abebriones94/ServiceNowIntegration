@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0ac1d2c793f231105f0976de3bba1075" label="Employer Candidate Search Table" max_length="40" name="x_1138460_nextgen_employer_candidate_search_table" type="collection">
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element label="Contact Email" max_length="40" name="contact_email" type="string"/>
+        <element label="Contact Person" max_length="40" name="contact_person" type="string"/>
+        <element label="Contact Phone Number" max_length="40" name="contact_phone_number" type="string"/>
+        <element label="Industy" max_length="40" name="industy" type="string"/>
+        <element label="Job Description" max_length="40" name="job_description" type="string"/>
+        <element label="Job Title/Role" max_length="40" name="job_title_role" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Skills Required" max_length="40" name="skills_required" type="string"/>
+    </element>
+</database>

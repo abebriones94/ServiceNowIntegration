@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="landing">36c61807cb31120000f8d856634c9ca9</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <logo>ad48da03933631105f0976de3bba10f6</logo>
+        <notfound_page/>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Leadership">08fcd8c673113010c94f54eb7df6a722</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:56:54</sys_created_on>
+        <sys_id>b1452cba93be71105f0976de3bba10a6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NextGen Talent Gateway</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sp_portal_b1452cba93be71105f0976de3bba10a6</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-03 19:56:17</sys_updated_on>
+        <theme display_value="Benchmarks - Theme">166e16f65b4132003d1c484c11f91a70</theme>
+        <title>NextGen Talent Gateway</title>
+        <ts_index_group/>
+        <url_suffix>nextgentalentgateway</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1452cba93be71105f0976de3bba10a6"/>
+</record_update>

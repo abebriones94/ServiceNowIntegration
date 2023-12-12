@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c0b214f933231105f0976de3bba108c" label="NextGen Graduate Profile Submission" max_length="40" name="x_1138460_nextgen_nextgen_graduate_profile_submission" type="collection">
+        <element label="Career Interests" max_length="40" name="career_interests" type="string"/>
+        <element label="Contact Email" max_length="40" name="contact_email" type="string"/>
+        <element label="When did you start learning ServiceNow?" max_length="40" name="degree_program" type="string"/>
+        <element attributes="encode_utf8=false" label="Graduate?" max_length="32" name="graduate" reference="sys_user" type="reference"/>
+        <element label="Graduate Name" max_length="40" name="graduate_name" type="string"/>
+        <element label="When do you graduate from your ServiceNow Program?" mandatory="true" max_length="40" name="graduation_date" type="glide_date"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element label="Skills" max_length="40" name="skills" type="string"/>
+        <index name="index">
+            <element name="graduate"/>
+        </index>
+    </element>
+</database>

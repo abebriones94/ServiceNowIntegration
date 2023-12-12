@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="e52268b67abe71101d7bde6491f953b0" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1138460_nextgen">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:45</sys_created_on>
+            <sys_id>6d2268b679be71107cff88e91ad786b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a92268b605be7110dd6f40a4619e37b0">e52268b67abe71101d7bde6491f953b0</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:45</sys_created_on>
+            <sys_id>212268b682be7110cfbfa159d885acb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a92268b605be7110dd6f40a4619e37b0">e52268b67abe71101d7bde6491f953b0</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:45</sys_created_on>
+            <sys_id>a52268b60ebe71106ab430bea8e564af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a92268b605be7110dd6f40a4619e37b0">e52268b67abe71101d7bde6491f953b0</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e52268b67abe71101d7bde6491f953b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+            <sys_update_name>sys_ui_section_e52268b67abe71101d7bde6491f953b0</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_1138460_nextgen)" name="custom_portal_settings_x_1138460_nextgen">a92268b605be7110dd6f40a4619e37b0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</application>
+        <file_path/>
+        <instance_id>4e112e001b0a7194699443f4bd4bcb54</instance_id>
+        <instance_name>dev189026</instance_name>
+        <name>sys_ui_section_e52268b67abe71101d7bde6491f953b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="e52268b67abe71101d7bde6491f953b0" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1138460_nextgen"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:45</sys_created_on><sys_id>6d2268b679be71107cff88e91ad786b0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a92268b605be7110dd6f40a4619e37b0">e52268b67abe71101d7bde6491f953b0</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:45</sys_created_on><sys_id>212268b682be7110cfbfa159d885acb1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a92268b605be7110dd6f40a4619e37b0">e52268b67abe71101d7bde6491f953b0</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:45</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:45</sys_created_on><sys_id>a52268b60ebe71106ab430bea8e564af</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="a92268b605be7110dd6f40a4619e37b0">e52268b67abe71101d7bde6491f953b0</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e52268b67abe71101d7bde6491f953b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package><sys_policy/><sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope><sys_update_name>sys_ui_section_e52268b67abe71101d7bde6491f953b0</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:45</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_1138460_nextgen)" name="custom_portal_settings_x_1138460_nextgen">a92268b605be7110dd6f40a4619e37b0</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>865694222</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:54:07</sys_created_on>
+        <sys_id>b3f4e4ba93be71105f0976de3bba1070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c2b73a35a0000001</sys_recorded_at>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:54:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>73f4e4baa5be7110a7a2d7b50ef69770</update_guid>
+        <update_guid_history>73f4e4baa5be7110a7a2d7b50ef69770:865694222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:54:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>097fd3b2781149c09a54035f28437410</sys_id>
+        <sys_metadata>e52268b67abe71101d7bde6491f953b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_parent display_value="Sys User">8fba0c20d9313110cedf7dffddb48f5d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_scope_delete display_value="">170b07843ccd488aa92ac8801322cf44</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e52268b67abe71101d7bde6491f953b0</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e52268b67abe71101d7bde6491f953b0">b3f4e4ba93be71105f0976de3bba1070</sys_update_version>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:54:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

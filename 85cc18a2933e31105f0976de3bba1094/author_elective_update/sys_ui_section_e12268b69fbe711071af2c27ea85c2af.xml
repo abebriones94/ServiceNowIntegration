@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="e12268b69fbe711071af2c27ea85c2af" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1138460_nextgen">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:42</sys_created_on>
+            <sys_id>2d2268b6cabe711071366647bf72b9af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="692268b682be7110eb507d389bde0eaf">e12268b69fbe711071af2c27ea85c2af</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:42</sys_created_on>
+            <sys_id>252268b68cbe71108e93776b4b64c3b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="692268b682be7110eb507d389bde0eaf">e12268b69fbe711071af2c27ea85c2af</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-02 16:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e12268b69fbe711071af2c27ea85c2af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+            <sys_update_name>sys_ui_section_e12268b69fbe711071af2c27ea85c2af</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-02 16:41:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1138460_nextgen)" name="custom_portal_approval_x_1138460_nextgen">692268b682be7110eb507d389bde0eaf</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</application>
+        <file_path/>
+        <instance_id>4e112e001b0a7194699443f4bd4bcb54</instance_id>
+        <instance_name>dev189026</instance_name>
+        <name>sys_ui_section_e12268b69fbe711071af2c27ea85c2af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="e12268b69fbe711071af2c27ea85c2af" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1138460_nextgen"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:42</sys_created_on><sys_id>2d2268b6cabe711071366647bf72b9af</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="692268b682be7110eb507d389bde0eaf">e12268b69fbe711071af2c27ea85c2af</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:42</sys_created_on><sys_id>252268b68cbe71108e93776b4b64c3b0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="692268b682be7110eb507d389bde0eaf">e12268b69fbe711071af2c27ea85c2af</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e12268b69fbe711071af2c27ea85c2af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package><sys_policy/><sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope><sys_update_name>sys_ui_section_e12268b69fbe711071af2c27ea85c2af</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:42</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_1138460_nextgen)" name="custom_portal_approval_x_1138460_nextgen">692268b682be7110eb507d389bde0eaf</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>710714783</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:54:20</sys_created_on>
+        <sys_id>7a05e4ba93be71105f0976de3bba108b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c2b73d2e00000001</sys_recorded_at>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:54:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3a05e4ba1cbe7110842adbf6f3d2608b</update_guid>
+        <update_guid_history>3a05e4ba1cbe7110842adbf6f3d2608b:710714783</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:54:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1bfad774d991406fa0ce947c1e26fe11</sys_id>
+        <sys_metadata>e12268b69fbe711071af2c27ea85c2af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_parent display_value="Sysapproval Approver">70fd84e4d9b13110cedf7dffddb48fc2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_scope_delete display_value="">170b07843ccd488aa92ac8801322cf44</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e12268b69fbe711071af2c27ea85c2af</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e12268b69fbe711071af2c27ea85c2af">7a05e4ba93be71105f0976de3bba108b</sys_update_version>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:54:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

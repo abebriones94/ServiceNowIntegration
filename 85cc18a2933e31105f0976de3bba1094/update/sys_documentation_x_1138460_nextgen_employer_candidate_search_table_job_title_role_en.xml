@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="job_title_role" label="Job Title/Role" language="en" table="x_1138460_nextgen_employer_candidate_search_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>job_title_role</element>
+            <help/>
+            <hint/>
+            <label>Job Title/Role</label>
+            <language>en</language>
+            <name>x_1138460_nextgen_employer_candidate_search_table</name>
+            <plural>Job Title/Roles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Abraham</sys_created_by>
+            <sys_created_on>2023-12-03 19:30:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Job Title/Role</sys_name>
+            <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+            <sys_update_name>sys_documentation_x_1138460_nextgen_employer_candidate_search_table_job_title_role_en</sys_update_name>
+            <sys_updated_by>Abraham</sys_updated_by>
+            <sys_updated_on>2023-12-03 19:30:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

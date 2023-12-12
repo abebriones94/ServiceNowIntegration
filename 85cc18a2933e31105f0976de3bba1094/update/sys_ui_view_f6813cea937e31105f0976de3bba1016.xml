@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_nextgen_talent_gateway</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-01 23:10:28</sys_created_on>
+        <sys_id>f6813cea937e31105f0976de3bba1016</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NextGen Talent Gateway View</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sys_ui_view_f6813cea937e31105f0976de3bba1016</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-01 23:10:28</sys_updated_on>
+        <title>NextGen Talent Gateway View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

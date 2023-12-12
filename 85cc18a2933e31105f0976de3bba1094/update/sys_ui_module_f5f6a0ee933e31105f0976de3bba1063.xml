@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NextGen Graduate Profiles">39f6a0ee933e31105f0976de3bba1060</application>
+        <filter/>
+        <name>NextGen Graduate Profiles</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1138460_nextgen.nextgen_graduate_profiles_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-01 22:24:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f5f6a0ee933e31105f0976de3bba1063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NextGen Graduate Profiles</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sys_ui_module_f5f6a0ee933e31105f0976de3bba1063</sys_update_name>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-01 22:24:15</sys_updated_on>
+        <table>x_1138460_nextgen_nextgen_graduate_profiles</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

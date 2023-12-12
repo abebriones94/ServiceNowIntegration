@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7be7a422937e31105f0976de3bba1025" label="ServiceNow Skills" max_length="40" name="x_1138460_nextgen_servicenow_skills" type="collection">
+        <element label="Flow Designer" max_length="40" name="flow_designer" type="string"/>
+        <element label="HTML/CSS" max_length="40" name="html_css" type="string"/>
+        <element label="JavaScript" max_length="40" name="javascript" type="string"/>
+        <element label="Portal Development" max_length="40" name="portal_development" type="string"/>
+        <element label="Scripting" max_length="40" name="scripting" type="string"/>
+        <element label="ServiceNow Application Development" max_length="40" name="servicenow_application_development" type="string"/>
+        <element label="ServiceNow IT Service Management (ITSM)" max_length="40" name="servicenow_it_service_management_itsm" type="string"/>
+        <element label="Service Catalog" max_length="40" name="service_catalog" type="string"/>
+    </element>
+</database>

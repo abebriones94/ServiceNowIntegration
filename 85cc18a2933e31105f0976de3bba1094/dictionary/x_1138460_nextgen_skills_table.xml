@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bb11602a933e31105f0976de3bba1029" label="Skills Table" max_length="40" name="x_1138460_nextgen_skills_table" type="collection">
+        <element label="Certification Linked" max_length="40" name="certification_linked" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Acquired Cert" max_length="40" name="date_acquired_cert" type="glide_date_time"/>
+        <element label="Experience Duration" max_length="40" name="experience_duration" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Proficiency Level" mandatory="true" max_length="40" name="proficiency_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Beginner" value="beginner"/>
+                <element inactive_on_update="false" label="Expert" value="expert"/>
+                <element inactive_on_update="false" label="Intermediate" value="intermediate"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Skill Catagory" mandatory="true" max_length="40" name="skill_catagory" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Administration" value="administration"/>
+                <element inactive_on_update="false" label="Analytical" value="analytical"/>
+                <element inactive_on_update="false" label="Customer Service" value="customer_service"/>
+                <element inactive_on_update="false" label="Development" value="development"/>
+                <element inactive_on_update="false" label="Project Management" value="project_management"/>
+                <element inactive_on_update="false" label="Technical" value="technical"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Skill Description" max_length="500" name="skill_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Skill Name" mandatory="true" max_length="40" name="skill_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Application Development" value="application_development"/>
+                <element inactive_on_update="false" label="Data Management" value="data_management"/>
+                <element inactive_on_update="false" label="Flow Designer" value="flow_designer"/>
+                <element inactive_on_update="false" label="HTML/CSS" value="html_css"/>
+                <element inactive_on_update="false" label="ITIL Foundations" value="itil_foundations"/>
+                <element inactive_on_update="false" label="JavaScript" value="javascript"/>
+                <element inactive_on_update="false" label="ServiceNow ITSM" value="servicenow_itsm"/>
+                <element inactive_on_update="false" label="Workflow Automation" value="workflow_automation"/>
+            </choice>
+        </element>
+    </element>
+</database>

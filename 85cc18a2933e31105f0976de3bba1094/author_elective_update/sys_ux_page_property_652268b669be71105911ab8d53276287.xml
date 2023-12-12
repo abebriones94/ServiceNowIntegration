@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">e52268b693be71105f0976de3bba1056</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">6d2268b6a2be7110ef65c03c47a71ba6</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-02 16:41:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>652268b669be71105911ab8d53276287</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_update_name>sys_ux_page_property_652268b669be71105911ab8d53276287</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:41:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1138460_nextgen.e52268b693be71105f0976de3bba1056.route.chrome_header.6d2268b6a2be7110ef65c03c47a71ba6</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</application>
+        <file_path/>
+        <instance_id>4e112e001b0a7194699443f4bd4bcb54</instance_id>
+        <instance_name>dev189026</instance_name>
+        <name>sys_ux_page_property_652268b669be71105911ab8d53276287</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">e52268b693be71105f0976de3bba1056</page><required_translations>[]</required_translations><route display_value="Search Page">6d2268b6a2be7110ef65c03c47a71ba6</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-12-02 16:41:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>652268b669be71105911ab8d53276287</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package><sys_policy/><sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope><sys_update_name>sys_ux_page_property_652268b669be71105911ab8d53276287</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-02 16:41:45</sys_updated_on><type>json</type><unique_name>x_1138460_nextgen.e52268b693be71105f0976de3bba1056.route.chrome_header.6d2268b6a2be7110ef65c03c47a71ba6</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1150701261</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:53:57</sys_created_on>
+        <sys_id>99f464ba93be71105f0976de3bba1003</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c2b737c560000001</sys_recorded_at>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:53:57</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>59f464ba2dbe7110553d905c0369a403</update_guid>
+        <update_guid_history>59f464ba2dbe7110553d905c0369a403:1150701261</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abraham</sys_created_by>
+        <sys_created_on>2023-12-02 16:53:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>21e6a5e057f2424b98ec70361f23b661</sys_id>
+        <sys_metadata>652268b669be71105911ab8d53276287</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="NextGen Talent Gateway" source="x_1138460_nextgen">85cc18a2933e31105f0976de3bba1094</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Talent Gateway">85cc18a2933e31105f0976de3bba1094</sys_scope>
+        <sys_scope_delete display_value="">170b07843ccd488aa92ac8801322cf44</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_652268b669be71105911ab8d53276287</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_652268b669be71105911ab8d53276287">99f464ba93be71105f0976de3bba1003</sys_update_version>
+        <sys_updated_by>Abraham</sys_updated_by>
+        <sys_updated_on>2023-12-02 16:53:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

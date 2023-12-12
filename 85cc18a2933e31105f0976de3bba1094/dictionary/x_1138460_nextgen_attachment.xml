@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="95ee9866933e31105f0976de3bba1053" label="Attachment" max_length="40" name="x_1138460_nextgen_attachment" type="collection">
+        <element label="Attachment" max_length="65536" name="attachment" type="html"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
